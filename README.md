@@ -12,4 +12,4 @@ ItemType.Ammo9x19 or ItemType.Ammo762x39 or ItemType.Ammo556x45 or ItemType.Ammo
 # билд
 если хотите сами забилдить - "dotnet build --configuration Release"  
 библиотеки Exiled подтягиваются через NuGet  
-все необходимые библиотеки с игры я загрузил  
+все необходимые библиотеки с игры я загрузил в libs  
